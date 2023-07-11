@@ -1,5 +1,8 @@
 *{
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    
 }
 
 /* Donate Section Styles */
@@ -39,4 +42,149 @@
     background-color: rgb(218, 67, 12);
     color: white;
     border:none;
+}
+
+/* Donate Today Styles */
+
+.donate-today{
+    margin-top: 30px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.donate-today h3{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.donate-today p{
+    font-size: 20px;
+    margin: 5px 30px;
+}
+
+/* Donate Amount Styles */
+
+.donate-amount{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.donate-amount h3{
+    margin-left: 40px;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+.click{
+    background-color: rgb(223, 187, 121);
+}
+
+/* Other Amount Styles */
+
+
+.other-amount{
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    padding-bottom:50px ;
+}
+
+.other-amount button{
+    margin: 30px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: rgb(218, 67, 12);
+    color: white;
+    border:none;
+}
+
+/* Donate Plan Styles */
+
+.donate-plan{
+    text-align: center;
+    padding: 30px 200px;
+    margin: 20px;
+    font-size: 20px;
+
+}
+
+.donate-plan p{
+    margin-top: 10px;
+    padding: 0 200px;
+}
+
+/* Survive Styles */
+
+.survive{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 100px;
+    margin:  10px 100px;
+}
+
+.survive img{
+    width: 500px;
+}
+
+.survive-button{
+    margin: 30px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: rgb(218, 67, 12);
+    color: white;
+    border:none;
+}
+
+.survive-detail{
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+/* Update Styles */
+
+.update{
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.update p{
+    padding: 0px 150px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+/* Subscribe Section Styles */
+
+.subscribe{
+    display: flex;
+justify-content: center;
+margin: 50px;
+padding: 100px 10px;
+background-color:rgba(255, 166, 0, 0.214);
+}
+
+
+/* Footer Styles */
+
+.footer{
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+    font-size: 30px;
+    color: white;
 }
