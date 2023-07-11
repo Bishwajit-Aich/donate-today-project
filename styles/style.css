@@ -118,7 +118,26 @@
     padding: 0 200px;
 }
 
+
+.food-selter-education-donated{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 100px;
+    margin: 0 100px;
+}
+
+
+
+
+
+
+
 /* Survive Styles */
+
+.survive h3{
+    margin: 15px;
+}
 
 .survive{
     display: flex;
