@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+/* Donate Section Styles */
+
+.donate-now{
+    background-image: url(../images/donation6.jpg);
+     background-position: top;
+    padding: 100px 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+
+}
+
+.donate-now-contain{
+    margin: 100px;
+    text-align: center;
+    color: white;
+}
+.donate-now-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.donate-now-description{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.donate-now-button{
+  margin: 30px;
+    padding: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: rgb(218, 67, 12);
+    color: white;
+    border:none;
+}
